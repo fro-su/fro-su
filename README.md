@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **fro-su/fro-su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-# Hi, I'm Firew Ayele
+## Hi there 👋, I'm Firew Ayele
 I am a Back-End Developer | Machine Learning Engineer<br><br>   
 - 🔭 I’m currently working on web development, focusing on building backend, user-centric applications.<br>
 - 🌱 I’m currently learning, and expertise in Machine Learning Engineering, MLOps, and Data Engineering.
